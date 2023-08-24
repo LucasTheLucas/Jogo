@@ -6,7 +6,7 @@
 
 <p align="center">
     <!-- Badge de estrelas do projeto -->
-	<img src="https://img.shields.io/github/stars/USUARIO/PROJECT LINK" />
+	<img src="https://img.shields.io/github/stars/LucasTheLucas/Jogo" />
     <!-- Badge de forks do projeto -->
     <img src="https://img.shields.io/github/forks/USUARIO/PROJECT LINK" />
     <!-- Badge de issues do projeto -->
